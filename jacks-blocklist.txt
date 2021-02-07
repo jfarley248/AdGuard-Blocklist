@@ -1,0 +1,2 @@
+!Try to block Apples software updates
+||mesu.apple.com^
